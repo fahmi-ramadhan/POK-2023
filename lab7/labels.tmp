@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>30</LINE></MAIN>
+  <ext_int0><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>149</LINE></ext_int0>
+  <INIT_STACK><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>32</LINE></INIT_STACK>
+  <INIT_LCD_MAIN><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>47</LINE></INIT_LCD_MAIN>
+  <EXIT><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>39</LINE></EXIT>
+  <INPUT_TEXT><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>42</LINE></INPUT_TEXT>
+  <message><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>304</LINE></message>
+  <INIT_LCD><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>106</LINE></INIT_LCD>
+  <INIT_INTERRUPT><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>56</LINE></INIT_INTERRUPT>
+  <LOADBYTE_PHASE1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>63</LINE></LOADBYTE_PHASE1>
+  <PAUSE1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>75</LINE></PAUSE1>
+  <WRITE_TEXT><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>140</LINE></WRITE_TEXT>
+  <DELAY_02><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>289</LINE></DELAY_02>
+  <SET_LINE><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>79</LINE></SET_LINE>
+  <LOADBYTE_PHASE2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>87</LINE></LOADBYTE_PHASE2>
+  <PAUSE2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>99</LINE></PAUSE2>
+  <LOOP_LCD><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>103</LINE></LOOP_LCD>
+  <DELAY_01><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>278</LINE></DELAY_01>
+  <CLEAR_LCD><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>131</LINE></CLEAR_LCD>
+  <MAIN2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>154</LINE></MAIN2>
+  <INIT_STACK2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>156</LINE></INIT_STACK2>
+  <INIT_LCD_MAIN2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>171</LINE></INIT_LCD_MAIN2>
+  <EXIT2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>163</LINE></EXIT2>
+  <INPUT_TEXT2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>166</LINE></INPUT_TEXT2>
+  <message2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>306</LINE></message2>
+  <INIT_LCD2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>215</LINE></INIT_LCD2>
+  <LOADBYTE_PHASE3><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>180</LINE></LOADBYTE_PHASE3>
+  <PAUSE3><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>192</LINE></PAUSE3>
+  <SET_LINE2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>196</LINE></SET_LINE2>
+  <LOADBYTE_PHASE4><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>204</LINE></LOADBYTE_PHASE4>
+  <CLEAR_LCD2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>240</LINE></CLEAR_LCD2>
+  <WRITE_TEXT2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>249</LINE></WRITE_TEXT2>
+  <ext_int1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>259</LINE></ext_int1>
+  <DELAY_00><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>268</LINE></DELAY_00>
+  <L0><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>272</LINE></L0>
+  <L1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>282</LINE></L1>
+  <L2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\LAB7FIX\latihan2.asm</FILE><LINE>293</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

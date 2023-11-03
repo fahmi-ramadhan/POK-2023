@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DATA><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>3</LINE></DATA>
+  <main><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>14</LINE></main>
+  <checkEqual><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>22</LINE></checkEqual>
+  <checkWhatsBigger><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>27</LINE></checkWhatsBigger>
+  <lcm><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>39</LINE></lcm>
+  <sub1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>31</LINE></sub1>
+  <sub2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>35</LINE></sub2>
+  <stop><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>46</LINE></stop>
+  <forever><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\AVR\latihan2.asm</FILE><LINE>50</LINE></forever>
+ </LABELS>
+</ASSEMBLER_INFO>

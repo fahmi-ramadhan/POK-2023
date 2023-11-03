@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\Latihan1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\Latihan1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\Latihan1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>33</LINE></MAIN>
+  <ISR_TOV0><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>124</LINE></ISR_TOV0>
+  <START><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>27</LINE></START>
+  <SET_LED><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>41</LINE></SET_LED>
+  <SET_TIMER><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>49</LINE></SET_TIMER>
+  <CHECK_LED><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>66</LINE></CHECK_LED>
+  <MODE_0><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>77</LINE></MODE_0>
+  <MODE_1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>87</LINE></MODE_1>
+  <MODE_2><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>98</LINE></MODE_2>
+  <MODE_3><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>109</LINE></MODE_3>
+  <DELAY><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>148</LINE></DELAY>
+  <FINISH><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>120</LINE></FINISH>
+  <DECREMENT_colorMode><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>133</LINE></DECREMENT_colorMode>
+  <INCREMENT_colorMode><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>127</LINE></INCREMENT_colorMode>
+  <CHANGE_TO_DECREMENT><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>143</LINE></CHANGE_TO_DECREMENT>
+  <CHANGE_TO_INCREMENT><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>139</LINE></CHANGE_TO_INCREMENT>
+  <L1><FILE>C:\Users\USER\OneDrive\Documents\Kuliah\Semester 2\POK\Lab8\latihan1.asm</FILE><LINE>152</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
